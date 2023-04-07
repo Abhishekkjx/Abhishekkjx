@@ -7,11 +7,12 @@ In my free time, I enjoy contributing to open source projects and building perso
 
 Feel free to check out my GitHub repositories to see some of my work. If you have any questions or would like to collaborate, don't hesitate to reach out!
 </p>
-- 👋 Hi, I’m @Abhishek Kumar Verma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 📫 You can Reach me on abhishekkv1998lko@gmail.com
-
+<ul>
+<li>- 👋 Hi, I’m @Abhishek Kumar Verma</li>
+<li>- 👀 I’m interested in Web Development</li>
+<li>- 🌱 I’m currently learning Full Stack Web Development</li>
+<li>- 📫 You can Reach me on <a href="abhishekkv1998lko@gmail.com">abhishekkv1998lko@gmail.com</a></li>
+</ul>
 <!---
 Abhishekkjx/Abhishekkjx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
